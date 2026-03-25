@@ -10,18 +10,7 @@
 
 When you upload your data, the app generates professional, standardized stickers formatted for A4 printing:
 
-```
-┌─────────────────────────────┐
-│                             │
-│    WP/1234/2024             │
-│                             │
-│    ABC Traders Pvt. Ltd.    │
-│    vs Union of India        │
-│                             │
-│  (Bengaluru Commissionerate)│
-│                             │
-└─────────────────────────────┘
-```
+![Sticker Preview](preview.png)
 
 ---
 
